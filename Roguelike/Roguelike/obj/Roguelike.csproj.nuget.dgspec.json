@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20kde\\OneDrive\\Рабочий стол\\Roguelike\\Roguelike\\Roguelike.csproj": {}
+    "D:\\Git\\ConsoleRoguelike\\Roguelike\\Roguelike\\Roguelike.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20kde\\OneDrive\\Рабочий стол\\Roguelike\\Roguelike\\Roguelike.csproj": {
+    "D:\\Git\\ConsoleRoguelike\\Roguelike\\Roguelike\\Roguelike.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20kde\\OneDrive\\Рабочий стол\\Roguelike\\Roguelike\\Roguelike.csproj",
+        "projectUniqueName": "D:\\Git\\ConsoleRoguelike\\Roguelike\\Roguelike\\Roguelike.csproj",
         "projectName": "Roguelike",
-        "projectPath": "C:\\Users\\20kde\\OneDrive\\Рабочий стол\\Roguelike\\Roguelike\\Roguelike.csproj",
+        "projectPath": "D:\\Git\\ConsoleRoguelike\\Roguelike\\Roguelike\\Roguelike.csproj",
         "packagesPath": "C:\\Users\\20kde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20kde\\OneDrive\\Рабочий стол\\Roguelike\\Roguelike\\obj\\",
+        "outputPath": "D:\\Git\\ConsoleRoguelike\\Roguelike\\Roguelike\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20kde\\AppData\\Roaming\\NuGet\\NuGet.Config",
